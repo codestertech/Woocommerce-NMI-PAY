@@ -48,7 +48,3 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 This plugin is licensed under the GPLv2 or later.
 
-## Screenshots
-
-![NMI Payment Gateway](assets/screenshot.png)
-
